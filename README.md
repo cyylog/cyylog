@@ -1,21 +1,9 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cyylog)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on Guǎngzhōu, China
+- 🌱 I’m currently learning golang,jenkins,MySQL,ansible,docker,kubernetes,
+- 💬 Ask me about : learning
+- 📫 How to reach me:  at my [blog](https://cyylog.github.io)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cyylog&show_icons=true)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhangguanzhang&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cyylog&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<!--
-**cyylog/cyylog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

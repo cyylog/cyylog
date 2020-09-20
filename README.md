@@ -6,8 +6,8 @@
   - [MySQL](https://dev.mysql.com/doc/refman/5.7/en/optimization.html)
   - [kubernetes](https://kubernetes.io/docs/home/)
   - [jenkins](https://www.jenkins.io/zh/doc/book/installing/)
-  - ansible--ing
-  - docker--ing
+  - ansible
+  - docker
   - [ELK](https://www.elastic.co/guide/index.html)			
   - awk sed find grep
   - 

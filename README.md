@@ -10,7 +10,6 @@
   - docker
   - [ELK](https://www.elastic.co/guide/index.html)			
   - awk sed find grep
-  - [![w74nDx.th.png](https://s1.ax1x.com/2020/09/21/w74nDx.th.png)](https://imgchr.com/i/w74nDx)
 - 💬 Ask me about : https://cyylog.netlify.app/about
 - 📫 How to reach me:  at my [blog](https://cyylog.netlify.app)
 

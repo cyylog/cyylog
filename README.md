@@ -11,7 +11,7 @@
   - [ELK](https://www.elastic.co/guide/index.html)			
   - awk sed find grep
 - 💬 Ask me about : https://cyylog.netlify.app/about
-- 📫 How to reach me:  at my [blog](https://cyylog.netlify.app)
+- 📫 How to reach me:  at my [blog](https://cyylog.netlify.app/about)
 
 
 [![Cyylog's github stats](https://github-readme-stats.vercel.app/api?username=cyylog&show_icons=true)](https://github.com/cyylog/Go_status)

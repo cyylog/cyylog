@@ -3,33 +3,19 @@
 - 🔭 I’m currently working on Guǎngzhōu, China
 - 🌱 I’m currently learning :
 
-  - [Golang](<https://github.com/cyylog/Go_status>)
+  - [Golang](<https://github.com/cyylog/Go_status>)		[MySQL](https://dev.mysql.com/doc/refman/5.7/en/optimization.html)		[Redis](https://redis.io/documentation)
 
-  - [MySQL](https://dev.mysql.com/doc/refman/5.7/en/optimization.html)   
+  - [ELK](https://www.elastic.co/guide/index.html)		[Ansible](https://www.ansible.com/)		[Docker](https://www.docker.com/)
 
-  - [Redis](https://redis.io/documentation)
+  - [Gitlab](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)		[Jenkins](https://www.jenkins.io/zh/doc/book/installing/)      	
 
-    
-
-  - [ELK](https://www.elastic.co/guide/index.html)
-
-  - [Ansible](https://www.ansible.com/)
-
-  - [Docker](https://www.docker.com/)
-
-  - [Gitlab](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
-
-  - [Jenkins](https://www.jenkins.io/zh/doc/book/installing/)      	
-
-  - [Prometheus](https://prometheus.io/)   and   [AlertManager](https://prometheus.io/docs/alerting/latest/alertmanager/)
-
-  - [Grafana](https://grafana.com/)
+  - [Prometheus](https://prometheus.io/)		[AlertManager](https://prometheus.io/docs/alerting/latest/alertmanager/)		[Grafana](https://grafana.com/)
 
   - [kubernetes](https://kubernetes.io/docs/home/)
 
     
 
-- Want to learn
+- 🌱 I’mWant to learn
 
   - **[calico](https://www.projectcalico.org/)**
   - [contiv](https://contiv.io/)

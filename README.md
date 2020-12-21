@@ -29,5 +29,3 @@
 
 - 📫 How to reach me:  at my [blog](https://cyylog.netlify.app/about)
 
-[![Cyylog's github stats](https://github-readme-stats.vercel.app/api?username=cyylog&show_icons=true)](https://github.com/cyylog/Go_status)
-

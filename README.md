@@ -25,7 +25,7 @@
 
   
 
-- 💬 Ask me about : https://cyylog.netlify.app/about
+- 💬 Ask me about : https://www.cyylog.cn/about
 
-- 📫 How to reach me:  at my [blog](https://cyylog.netlify.app/about)
+- 📫 How to reach me:  at my [blog](https://www.cyylog.cn/about)
 

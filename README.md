@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" width = "300" height = "200" src="https://user-images.githubusercontent.com/52351095/103184390-ef5bfa00-48f2-11eb-922b-0f10391abecf.gif" />
+
 <img align="right" alt="GIF"  width = "300" height = "200" src="https://user-images.githubusercontent.com/52351095/103271953-8f4e7c00-49f6-11eb-83fe-deedfb4f0f3d.gif" />
 
 - 🔭 I’m currently working on Guǎngzhōu, China
